@@ -8,7 +8,9 @@ In order to run the project, you need to run the following commands:
 3.  ```./run.sh <input.wav> <output.wav> <time_stretch_ratio> ```
 
     Example of speeding up the audio recording test_mono.wav by 2 times:
-    ```./run.sh examples/test_mono.wav examples/test_mono_r2.wav 2```
+    ```
+    ./run.sh examples/test_mono.wav examples/test_mono_r2.wav 2
+    ```
 
 # Task condition:
 Требуется реализовать алгоритм pitch-shifter по ссылке в статье: http://www.guitarpitchshifter.com/algorithm.html
