@@ -6,6 +6,7 @@ In order to run the project, you need to run the following commands:
 1.  ```cd solution```
 2.  If necessary for Unix-like systems: ```chmod +x run.sh```
 3.  ```./run.sh <input.wav> <output.wav> <time_stretch_ratio> ```
+
     Example of speeding up the audio recording test_mono.wav by 2 times:
     ```./run.sh examples/test_mono.wav examples/test_mono_r2.wav 2```
 
