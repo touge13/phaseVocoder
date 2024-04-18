@@ -1,8 +1,8 @@
-## Phase Vocoder
+# Phase Vocoder
 
 Completed by: `Grudinin Mikhail Artemovich (Грудинин Михаил Артемович)`
 
-# Start a project
+## Start a project
 Before use you need the `numpy`, `matplotlib` and `scipy` libraries.
 In order to run the project, you need to run the following commands:
 1.  ```cd phaseVocoder```
@@ -14,7 +14,7 @@ In order to run the project, you need to run the following commands:
     ./run.sh examples/test_mono.wav examples/test_mono_r2.wav 2
     ```
 
-# Task condition:
+## Task condition:
 Требуется реализовать алгоритм pitch-shifter по ссылке в статье: http://www.guitarpitchshifter.com/algorithm.html
 Алгоритм предназначен для изменения цифрового аудио-сигнала без изменения питча.
 Язык реализации: Python или C++.
