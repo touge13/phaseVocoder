@@ -1,4 +1,4 @@
-# Phase Vocoder
+# Phase vocoder using Fourier transform
 
 Completed by: `Grudinin Mikhail Artemovich (Грудинин Михаил Артемович)`
 
